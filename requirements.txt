@@ -1,0 +1,8 @@
+opencv-python
+numpy
+ultralytics[yolo]
+pygame
+transformers
+torch
+matplotlib
+open3d
